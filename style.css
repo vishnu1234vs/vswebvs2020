@@ -44,7 +44,7 @@ nav li{
     margin: 0rem 4rem;
 }
 .hero-section{
-    background-image: url(images/bac.jpeg);
+    background-image: url(bac.jpeg);
     height: 80rem;
     background-position: center;
     background-size: cover;
